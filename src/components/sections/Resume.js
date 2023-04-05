@@ -19,18 +19,23 @@ const ResumeSection = () => {
               <div className="col col-d-6 col-t-12 col-m-12">
                 <div className="resume-item border-line-h active">
                   <div className="date">01/2022 - Present</div>
-                  <div className="name">Front-end Developer</div>
+                  <div className="name">CRM system</div>
                   <div className="company">ITBee Solutions</div>
                   <p>
                     Working on a CRM system, which featuring various type of
-                    management, including customer management, order management,
-                    task and workflow management, stock management, human
-                    resource management, and many more.
+                    management
+                    <ul>
+                      <li>- User, Employee, Customer</li>
+                      <li>- Department, Role</li>
+                      <li>- Stock, Import, Export</li>
+                      <li>- Category, Product, Order</li>
+                      <li>- Chat... many more</li>
+                    </ul>
                   </p>
                   <br />
                   <div>
                     <div className="name">Technologies: </div>
-                    ReactJS - Javascript -
+                    ReactJS - Javascript - Socket - TailwindCss - MUI
                   </div>
                 </div>
               </div>
@@ -38,17 +43,22 @@ const ResumeSection = () => {
               <div className="col col-d-6 col-t-12 col-m-12">
                 <div className="resume-item border-line-h">
                   <div className="date">08/2021 - 01/2022</div>
-                  <div className="name">Front-end Developer</div>
+                  <div className="name">E-commerce</div>
                   <div className="company">ITBee Solutions</div>
                   <p>
-                    Working on many projects of affiliate, e-commerce websites,
-                    provide various features of product management, human
-                    resource management, ranking system, and many more.
+                    Working on many projects of affiliate, e-commerce websites
+                    <ul>
+                      <li>- Product management</li>
+                      <li>- Human resource management</li>
+                      <li>- Ranking system</li>
+                      <li>- Commission</li>
+                      <li>- ... many more</li>
+                    </ul>
                   </p>
                   <br />
                   <div>
                     <div className="name">Technologies: </div>
-                    ReactJS - Javascript
+                    ReactJS - Javascript - Ant
                   </div>
                 </div>
               </div>
@@ -56,18 +66,17 @@ const ResumeSection = () => {
               <div className="col col-d-12 col-t-12 col-m-12">
                 <div className="resume-item border-line-h">
                   <div className="date">01/2021 - 07/2021</div>
-                  <div className="name">Front-end Developer</div>
+                  <div className="name">Real-estate</div>
                   <div className="company">ITBee Solutions</div>
                   <p>
-                    I worked on a real-estate product that provides a
-                    marketplace and workplace for the real-estate industry,
-                    including blogs, real-time messaging, recommendation system,
-                    advanced analytics and reports
+                    This product provides a marketplace and workplace for the
+                    real-estate industry, including blogs, real-time messaging,
+                    recommendation system, advanced analytics and reports
                   </p>
                   <br />
                   <div>
                     <div className="name">Technologies: </div>
-                    ReactJS - Typescript
+                    ReactJS - Typescript - MUI
                   </div>
                 </div>
               </div>

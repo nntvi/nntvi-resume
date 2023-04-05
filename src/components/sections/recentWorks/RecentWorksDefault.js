@@ -75,7 +75,7 @@ const RecentWorksDefault = () => {
                 </li>
                 <li>
                   <div className="name">
-                    Validate form với Yup và React Hook Form
+                    Validate form with Yup and React Hook Form
                   </div>
                 </li>
                 <li>

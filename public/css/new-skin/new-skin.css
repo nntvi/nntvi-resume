@@ -973,8 +973,8 @@ input[type="file"] {
   .card-started .profile.no-photo .slide {
     height: 55%;
   }
-  .card-started .profile.no-photo .title {
-    margin-top: 200px;
+  .card-started .title {
+    margin-top: 235px;
   }
 }
 

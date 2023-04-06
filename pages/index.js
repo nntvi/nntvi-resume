@@ -71,7 +71,7 @@ const IndexDark = () => {
           <div className="lnks">
             <a href="file/my-resume.pdf" className="lnk" target="pdf-frame">
               <span className="text">Download CV</span>
-              <span class="ion ion-ios-cloud-download"></span>
+              <span className="ion ion-ios-cloud-download"></span>
             </a>
           </div>
         </div>

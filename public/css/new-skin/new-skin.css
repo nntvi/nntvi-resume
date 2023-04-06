@@ -884,6 +884,13 @@ input[type="file"] {
   color: #323232;
 }
 
+@media (max-width: 320px) {
+  .card-started .profile .title {
+    font-size: 25px;
+    margin-top: 224px !important;
+  }
+}
+
 .card-started .profile .subtitle,
 .card-started .profile .typed-cursor {
   position: relative;

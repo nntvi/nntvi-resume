@@ -24,14 +24,14 @@ const ResumeSection = () => {
                   <p>
                     Working on a CRM system, which featuring various type of
                     management
-                    <ul>
-                      <li>- User, Employee, Customer</li>
-                      <li>- Department, Role</li>
-                      <li>- Stock, Import, Export</li>
-                      <li>- Category, Product, Order</li>
-                      <li>- Chat... many more</li>
-                    </ul>
                   </p>
+                  <ul>
+                    <li>- User, Employee, Customer</li>
+                    <li>- Department, Role</li>
+                    <li>- Stock, Import, Export</li>
+                    <li>- Category, Product, Order</li>
+                    <li>- Chat... many more</li>
+                  </ul>
                   <br />
                   <div>
                     <div className="name">Technologies: </div>
@@ -47,14 +47,14 @@ const ResumeSection = () => {
                   <div className="company">ITBee Solutions</div>
                   <p>
                     Working on many projects of affiliate, e-commerce websites
-                    <ul>
-                      <li>- Product management</li>
-                      <li>- Human resource management</li>
-                      <li>- Ranking system</li>
-                      <li>- Commission</li>
-                      <li>- ... many more</li>
-                    </ul>
                   </p>
+                  <ul>
+                    <li>- Product management</li>
+                    <li>- Human resource management</li>
+                    <li>- Ranking system</li>
+                    <li>- Commission</li>
+                    <li>- ... many more</li>
+                  </ul>
                   <br />
                   <div>
                     <div className="name">Technologies: </div>

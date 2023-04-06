@@ -11,7 +11,7 @@
 
 After granduated, I have been very focused on learning front-end web programming. Now I am very confident that my abilities can meet your requirements.
 
-## 👔Projects
+## 👔 My Project
 
 ### Shopee clone
 
@@ -31,30 +31,11 @@ This is a project to clone the user page of the e-commerce platform [Shopee](htt
 - SEO with React Helmet
 - Separate the private and public routes.
 
-**🔗Webiste**: [https://vercel.com](https://vi-clone-shopee.vercel.app)
+**🔗Webiste**: [https://vi-clone-shopee.vercel.app](https://vi-clone-shopee.vercel.app)
 
 **🔐Account for testing**: `userVi@gmail.com` / `123123`
 
-**🔗Github**: [https://github.com](https://github.com/nntvi)
-
-### My project
-
-This is my personal website to introduce myself, which I designed and coded myself.
-
-**Technologies used**: ReactJs, Create React App, Styled Component, ESLint, Prettier, React Helmet, React Router
-
-**Functions include**:
-
-- Fully responsive website
-- Scoped CSS with Styled Component
-- Linting with Prettier and ESLint
-- Improve SEO with React helmet
-- React Context is used to manage state.
-- Code Splitting
-
-**🔗Webiste**: [https://vercel.com](https://vercel.com)
-
-**🔗Github**: [https://github.com](https://github.com)
+**🔗Github**: [https://github.com/nntvi](https://github.com/nntvi)
 
 ### My Experiences
 
@@ -78,7 +59,7 @@ Working on many projects of affiliate, e-commerce websites, provide various feat
 I worked on a real-estate product that provides a marketplace and workplace for the real-estate industry, including blogs, real-time messaging, recommendation system, advanced analytics and reports
 
 **Technologies used**: HTML5, CSS, Material UI, Typescript, ReactJS
-**[01/2021 - 07/2022] - ITBeeSolutions**
+**[01/2021 - 07/2021] - ITBeeSolutions**
 
 ## 🔧Skills
 

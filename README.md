@@ -1,6 +1,6 @@
 # Nguyen Ngoc Tuong Vi
 
-<img src="./public/images/ava.jpg" width="150" style='border-radius: 10px; margin-bottom: 20px;'/>
+<img src="./public/images/ava.jpg" width="180" style='border-radius: 10px; margin-bottom: 20px;'/>
 
 - 👶 **Birthday**: 26/09/1998
 - 🏰 **Address**: Ho Chi Minh, Viet Nam
@@ -9,7 +9,9 @@
 
 > Hi, I'm a front-end developer who can code all day without getting tired.
 
-After granduated, I have been very focused on learning front-end web programming. Now I am very confident that my abilities can meet your requirements.
+After graduated, I have been very focused on working front-end ReactJS in 2 years. Now I am very confident that my abilities can meet your requirements.
+
+**You can see my enclosed resume via:** https://nttvi-resume.netlify.app
 
 ## 👔 My Project
 

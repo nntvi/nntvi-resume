@@ -9,7 +9,7 @@
 
 > Hi, I'm a front-end developer who can code all day without getting tired.
 
-After graduated, I have been very focused on working front-end ReactJS in 2 years. Now I am very confident that my abilities can meet your requirements.
+After graduated, I have been very focused on working front-end ReactJS for 2 years. Now I am very confident that my abilities can meet your requirements.
 
 **You can see my enclosed resume via:** https://nttvi-resume.netlify.app
 
@@ -41,26 +41,38 @@ This is a project to clone the user page of the e-commerce platform [Shopee](htt
 
 ### My Experiences
 
-##### CRM System
+#### CRM System
 
-Working on a CRM system, which featuring various type of management, including customer management, order management, task and workflow management, stock management, human resource management, and many more.
+Working on a CRM (Customer Relationship Management) system, which featuring various type of management, including customer management, order management, task and workflow management, stock management, human resource management, and many more.
 
-**Technologies used**: HTML5, CSS, Material UI, Javascript, ReactJS
+**Functions include**:
 
+- Manage authentication with JWT (automatic token refresh applied)
+- Use the Yup and React Hook Form to validate the form.
+- Redux Toolkit to manage state in project
+- Code Splitting
+- Improve performance by optimizing build file size analysis.
+- Separate the private and public routes.
+- Notification and chatting with Socket-io
+
+**Technologies used**: HTML5, CSS, Material UI, TailwindCSS, Javascript, ReactJS, Redux, Socket
+
+**Team size**: 1 Project manager, 1 BA, 1 Designer, 3 Front-end, 2 Back-end, 2 Tester
 **[01/2022 - Present] - ITBeeSolutions**
 
 ### E-commerce
 
 Working on many projects of affiliate, e-commerce websites, provide various features of product management, human resource management, ranking system, and many more.
 
-**Technologies used**: HTML5, CSS, Material UI, Javascript, ReactJS
+**Technologies used**: HTML5, CSS, Ant, Javascript, ReactJS, Redux
 **[08/2021 - 01/2022] - ITBeeSolutions**
 
-### Real-estate
+### Real Estate
 
-I worked on a real-estate product that provides a marketplace and workplace for the real-estate industry, including blogs, real-time messaging, recommendation system, advanced analytics and reports
+I worked on a real-estate product that provides a marketplace and workplace for the real estate industry, including blogs, real-time messaging, recommendation system, advanced analytics and reports
 
 **Technologies used**: HTML5, CSS, Material UI, Typescript, ReactJS
+**Team size**: 1 BA, 1 Designer, 2 Front-end, 1 Back-end, 1 Tester
 **[01/2021 - 07/2021] - ITBeeSolutions**
 
 ## 🔧Skills

@@ -9,37 +9,23 @@
 
 > Hi, I'm a front-end developer who can code all day without getting tired.
 
-After graduated, I have been very focused on working front-end ReactJS for 2 years. Now I am very confident that my abilities can meet your requirements.
+After graduated, I have been very focused on working front-end ReactJS for more than 2 years. Now I am very confident that my abilities can meet your requirements.
 
 **You can see my enclosed resume via:** https://nttvi-resume.netlify.app
 
-## 👔 My Project
-
-### Shopee clone
-
-This is a project to clone the user page of the e-commerce platform [Shopee](https://vi-clone-shopee.vercel.app).
-
-**Technologies used**: REST API, ReactJs, Typescript, Tailwindcss, React Router, React Hook Form, Yup, React Query, Vite, ESLint, Prettier, React Helmet
-
-**Functions include**:
-
-- Manage authentication with JWT (automatic token refresh applied)
-- Use the Yup and React Hook Form to validate the form.
-- Smart Pagination, Filter, and Product Search
-- Incorporate state into the URL to easily share results across devices.
-- Asynchronous state management with React Query
-- Code Splitting
-- Improve performance by optimizing build file size analysis.
-- SEO with React Helmet
-- Separate the private and public routes.
-
-**🔗Webiste**: [https://vi-clone-shopee.vercel.app](https://vi-clone-shopee.vercel.app)
-
-**🔐Account for testing**: `userVi@gmail.com` / `123123`
-
-**🔗Github**: [https://github.com/nntvi](https://github.com/nntvi)
-
 ### My Experiences
+
+#### CRM System
+
+The project we're currently developing is a comprehensive Customer Relationship Management (CRM) system, specifically designed to cater to the needs of a water supply company operating within Binh Duong province. Our goal is to streamline the management of various business aspects, and our system offers a wide array of features, including the following:
+
+- Login and automatic token refresh applied
+- Use React Query to manage and update data at management functions: customer/user/billings/category/meter/area… management
+- Use Yup and Formik to validate forms
+- Export pdf, excel for reporting functionality
+
+**Technologies used**: Vite, TailwindCSS, Daisy UI, Javascript, ReactJS, Redux, Yup, React Query
+**[07/2023 - Present] - VietNam Blockchain Corporation**
 
 #### CRM System
 
@@ -74,6 +60,32 @@ I worked on a real-estate product that provides a marketplace and workplace for 
 **Technologies used**: HTML5, CSS, Material UI, Typescript, ReactJS
 **Team size**: 1 BA, 1 Designer, 2 Front-end, 1 Back-end, 1 Tester
 **[01/2021 - 07/2021] - ITBeeSolutions**
+
+## 👔 My Project
+
+### Shopee clone
+
+This is a project to clone the user page of the e-commerce platform [Shopee](https://vi-clone-shopee.vercel.app).
+
+**Technologies used**: REST API, ReactJs, Typescript, Tailwindcss, React Router, React Hook Form, Yup, React Query, Vite, ESLint, Prettier, React Helmet
+
+**Functions include**:
+
+- Manage authentication with JWT (automatic token refresh applied)
+- Use the Yup and React Hook Form to validate the form.
+- Smart Pagination, Filter, and Product Search
+- Incorporate state into the URL to easily share results across devices.
+- Asynchronous state management with React Query
+- Code Splitting
+- Improve performance by optimizing build file size analysis.
+- SEO with React Helmet
+- Separate the private and public routes.
+
+**🔗Webiste**: [https://vi-clone-shopee.vercel.app](https://vi-clone-shopee.vercel.app)
+
+**🔐Account for testing**: `userVi@gmail.com` / `123123`
+
+**🔗Github**: [https://github.com/nntvi](https://github.com/nntvi)
 
 ## 🔧Skills
 

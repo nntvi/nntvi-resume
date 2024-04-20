@@ -20,7 +20,7 @@ const RecentWorks = dynamic(
 );
 
 const bio = `<p>
-I am Nguyen Ngoc Tuong Vi, front-end developer. I have <b>2 years</b> of experience in
+I am Nguyen Ngoc Tuong Vi, front-end developer. I have more than <b>3 years</b> of experience in
 building dynamic and engaging user interfaces for web applications.
 </p>`;
 const IndexDark = () => {
@@ -69,7 +69,7 @@ const IndexDark = () => {
           {/* profile buttons */}
 
           <div className="lnks">
-            <a href="file/my-resume.pdf" className="lnk" target="pdf-frame">
+            <a href="file/my-resume.docx" className="lnk" target="pdf-frame">
               <span className="text">Download CV</span>
               <span className="ion ion-ios-cloud-download"></span>
             </a>

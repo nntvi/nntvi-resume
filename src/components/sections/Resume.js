@@ -16,9 +16,41 @@ const ResumeSection = () => {
               <div className="name">Experience</div>
             </div>
             <div className="resume-items">
-              <div className="col col-d-6 col-t-12 col-m-12">
+              <div className="col col-d-12 col-t-12 col-m-12">
                 <div className="resume-item border-line-h active">
                   <div className="date">01/2022 - Present</div>
+                  <div className="name">CRM system</div>
+                  <div className="company">Viet Nam Blockchain Coporation</div>
+                  <p>
+                    The project we're currently developing is a comprehensive
+                    Customer Relationship Management (CRM) system, specifically
+                    designed to cater to the needs of a water supply company
+                    operating within Binh Duong province. Our goal is to
+                    streamline the management of various business aspects, and
+                    our system offers a wide array of features, including the
+                    following:
+                  </p>
+
+                  <ul>
+                    <li>- Login and automatic token refresh applied</li>
+                    <li>
+                      - Use React Query to manage and update data at management
+                      functions: customer/user/billings/category/meter/area…
+                      management
+                    </li>
+                    <li>- Use Yup and Formik to validate forms</li>
+                    <li>- Export pdf, excel for reporting functionality</li>
+                  </ul>
+                  <br />
+                  <div>
+                    <div className="name">Technologies: </div>
+                    ReactJS - Javascript - Socket - TailwindCss - MUI
+                  </div>
+                </div>
+              </div>
+              <div className="col col-d-6 col-t-12 col-m-12">
+                <div className="resume-item border-line-h">
+                  <div className="date">01/2022 - 05/2023</div>
                   <div className="name">CRM system</div>
                   <div className="company">ITBee Solutions</div>
                   <p>

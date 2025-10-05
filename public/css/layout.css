@@ -1799,7 +1799,7 @@
 }
 
 .skills-list.list ul li .name {
-  padding-left: 30px;
+  padding-left: 20px;
   margin-bottom: 0;
   position: relative;
 }
@@ -1812,6 +1812,26 @@
   display: inline-block;
   font-family: "Ionicons";
   color: #78cc6d;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Dấu chấm tròn cho phần Resume */
+.resume .skills-list.list ul li .name:before {
+  content: "•";
+  position: absolute;
+  left: 0;
+  top: 2px;
+  display: inline-block;
+  font-family: Arial, sans-serif;
+  color: #78cc6d;
+  font-size: 14px;
   speak: none;
   font-style: normal;
   font-weight: normal;

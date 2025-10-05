@@ -45,7 +45,7 @@ const Skills = () => {
               </div>
               <ul>
                 <li className="border-line-h">
-                  <div className="name">ReactJS</div>
+                  <div className="name">ReactJS/NextJS</div>
                 </li>
                 <li className="border-line-h">
                   <div className="name">HTML/CSS</div>

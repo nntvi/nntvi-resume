@@ -10,9 +10,9 @@ const Summary = () => {
           {/* experience */}
           <div className="col col-d-12 col-t-12 col-m-12 border-line-v">
             <div className="text-box">
-              My expertise spans across <b>ReactJS </b>
-              framework, enabling me to create responsive, high-performance, and
-              scalable web solutions.
+              My expertise spans across <b>ReactJS </b> and <b>Next.js</b>,
+              enabling me to create responsive, high-performance, and scalable
+              web solutions.
             </div>
           </div>
 

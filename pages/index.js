@@ -16,12 +16,14 @@ const RecentWorks = dynamic(
   () => import("../src/components/sections/RecentWorks"),
   {
     ssr: false,
-  }
+  },
 );
 
 const bio = `<p>
-I am Nguyen Ngoc Tuong Vi, front-end developer. I have more than <b>4 years</b> of experience in
-building dynamic and engaging user interfaces for web applications.
+I am Nguyen Ngoc Tuong Vi, a front-end engineer with <b>5+ years</b> of experience building
+production web applications with React. Experienced in developing complex, data-driven interfaces
+for enterprise products, with a focus on maintainable code, reusable components, and
+user-friendly experiences.
 </p>`;
 const IndexDark = () => {
   return (
@@ -36,7 +38,10 @@ const IndexDark = () => {
         <div className="profile no-photo">
           <div
             className="slide"
-            style={{ backgroundImage: "url(images/ava.jpg)" }}
+            style={{
+              backgroundImage: "url(images/ava2.jpg)",
+              backgroundPosition: "center 40%",
+            }}
           />
           <div className="title">Nguyen Ngoc Tuong Vi</div>
           <TypingAnimation />
@@ -69,7 +74,11 @@ const IndexDark = () => {
           {/* profile buttons */}
 
           <div className="lnks">
-            <a href="file/my-resume.pdf" className="lnk" target="pdf-frame">
+            <a
+              href="file/NguyenNgocTuongVi_FrontendEngineer.pdf"
+              className="lnk"
+              target="pdf-frame"
+            >
               <span className="text">Download CV</span>
               <span className="ion ion-ios-cloud-download"></span>
             </a>

@@ -15,14 +15,17 @@ const AboutMe = ({ bio }) => {
         </div>
         {/* content */}
         <div className="row">
-          <div className="col col-d-6 col-t-6 col-m-12 border-line-v">
+          <div className="col col-d-12 col-t-12 col-m-12 border-line-v">
             <div
               className="text-box"
               dangerouslySetInnerHTML={{ __html: bio ? bio : bio_ }}
             ></div>
           </div>
-          <div className="col col-d-6 col-t-6 col-m-12 border-line-v">
-            <div className="info-list">
+          <div
+            className="col col-d-12 col-t-12 col-m-12 border-line-v"
+            style={{ paddingTop: "0px" }}
+          >
+            <div className="info-list info-list-row">
               <ul>
                 <li>
                   <strong>Gender </strong> Female

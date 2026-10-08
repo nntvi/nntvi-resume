@@ -10,9 +10,10 @@ const Summary = () => {
           {/* experience */}
           <div className="col col-d-12 col-t-12 col-m-12 border-line-v">
             <div className="text-box">
-              My expertise spans across <b>ReactJS </b> and <b>Next.js</b>,
-              enabling me to create responsive, high-performance, and scalable
-              web solutions.
+              I build data-heavy interfaces for enterprise products with{" "}
+              <b>React</b>, <b>Next.js</b>, and <b>TypeScript</b>, from
+              inventory and financial workflows to real-time GIS monitoring and
+              AI chat platforms.
             </div>
           </div>
 
@@ -21,10 +22,9 @@ const Summary = () => {
             style={{ paddingTop: "0px" }}
           >
             <div className="text-box">
-              As a passionate learner, I am always exploring new technologies,
-              tools, and frameworks to stay ahead of the curve. I enjoy working
-              with cross-functional teams and building advanced web solutions
-              that meet customer needs.
+              I care about the parts users never see but always feel: reusable
+              components, predictable server state, and UIs that stay fast with
+              large tables, live updates, and long chat histories.
             </div>
           </div>
 
@@ -33,9 +33,10 @@ const Summary = () => {
             style={{ paddingTop: "0px" }}
           >
             <div className="text-box">
-              I am passionate about creating beautiful and functional user
-              interfaces and am always looking for new challenges and
-              opportunities to grow as a developer.
+              I work closely with Product, Design, Backend, and QA to turn
+              requirements into features that make everyday work simpler for
+              users, and I use AI tools like <b>Claude Code</b> to move faster
+              without cutting corners.
             </div>
           </div>
         </div>

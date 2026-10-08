@@ -61,3 +61,26 @@ img.mfp-img {
   left: 50%;
   transform: translate(-50%, -50%);
 }
+
+.info-list.info-list-row ul {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+}
+.info-list.info-list-row ul li {
+  padding: 0;
+  text-align: left;
+}
+.info-list.info-list-row ul li:before {
+  display: none;
+}
+.info-list.info-list-row ul li strong {
+  float: none;
+  display: table;
+  margin: 0 0 8px 0;
+}
+@media (max-width: 560px) {
+  .info-list.info-list-row ul {
+    grid-template-columns: 1fr;
+  }
+}

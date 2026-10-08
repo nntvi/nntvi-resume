@@ -26,8 +26,80 @@ const ResumeSection = () => {
                       alignItems: "center",
                     }}
                   >
+                    <div className="name">MealSuite</div>
+                    <div className="date">12/2025 - Present</div>
+                  </div>
+                  <i style={{ marginTop: "8px", display: "block" }}>
+                    MealSuite is a North American foodservice technology
+                    platform for senior living and healthcare, supporting
+                    end-to-end operations across inventory, procurement,
+                    budgeting, and dining services.
+                  </i>
+                  <div className="skills-list list">
+                    <ul>
+                      <li>
+                        <div className="name">
+                          Built complex inventory workflows with{" "}
+                          <b>React</b>, <b>TypeScript</b>, and{" "}
+                          <b>Material UI</b> in a Vite-based application
+                          supporting large data tables, filtering, bulk
+                          actions, and role-based behaviors across Inventory
+                          On Hand and Worksheet.
+                        </div>
+                      </li>
+                      <li>
+                        <div className="name">
+                          Used <b>SWR</b> to manage server state, caching,
+                          revalidation, and API-driven UI updates across
+                          inventory and financial workflows.
+                        </div>
+                      </li>
+                      <li>
+                        <div className="name">
+                          Developed reusable frontend patterns for Financial
+                          Insights, including dashboard sections, date-based
+                          filtering, facility-level views, and form workflows
+                          with <b>React Hook Form</b> and <b>Zod</b> for
+                          managing financial configuration and validating user
+                          inputs.
+                        </div>
+                      </li>
+                      <li>
+                        <div className="name">
+                          Used <b>Claude Code</b> and custom{" "}
+                          <b>AI-assisted commands</b> for requirement
+                          analysis, codebase exploration, implementation
+                          planning, debugging, and code review.
+                        </div>
+                      </li>
+                      <li>
+                        <div className="name">
+                          Worked closely with Product, Design, Backend, and QA
+                          teams to refine requirements, collaborate on UI
+                          designs in Figma, and deliver production features.
+                        </div>
+                      </li>
+                    </ul>
+                  </div>
+                  <div>
+                    <b>Impact:</b> Helped improve inventory and financial
+                    workflows by providing clearer data visibility and more
+                    efficient tools for day-to-day foodservice operations.
+                  </div>
+                </div>
+              </div>
+
+              <div className="col col-d-12 col-t-12 col-m-12">
+                <div className="resume-item border-line-h">
+                  <div
+                    style={{
+                      display: "flex",
+                      justifyContent: "space-between",
+                      alignItems: "center",
+                    }}
+                  >
                     <div className="name">VietNam Blockchain Corporation</div>
-                    <div className="date">06/2023 - Present</div>
+                    <div className="date">07/2023 - 11/2025</div>
                   </div>
                   <br />
                   <a
@@ -40,120 +112,49 @@ const ResumeSection = () => {
                   </a>
                   <br />
                   <i style={{ marginTop: "8px", display: "block" }}>
-                    Next.js 15, React 19, TypeScript, TailwindCSS, ShadcnUI,
-                    TanStack Query
+                    An internal AI assistant designed to improve communication
+                    and knowledge sharing across BIWASE.
                   </i>
                   <div className="skills-list list">
                     <ul>
                       <li>
                         <div className="name">
-                          <b>AI-powered assistant</b> for internal communication
-                          and knowledge sharing
+                          Built real-time AI chat experiences with{" "}
+                          <b>Next.js</b>, <b>React</b>, <b>TypeScript</b>, and{" "}
+                          <b>TanStack Query</b>, handling streamed responses
+                          and asynchronous message updates while keeping the UI
+                          responsive.
                         </div>
                       </li>
                       <li>
                         <div className="name">
-                          <b>Real-time streaming</b> responses via native fetch
-                          streams
+                          Implemented virtual scrolling, message caching, and
+                          incremental rendering to keep long chat histories
+                          performant and avoid rendering the entire
+                          conversation at once.
                         </div>
                       </li>
                       <li>
                         <div className="name">
-                          <b>Performance optimization</b> with virtual
-                          scrolling, message caching — 40% memory reduction
+                          Structured reusable chat components and message
+                          states to support loading, streaming, retry, and
+                          completed-response scenarios without duplicating UI
+                          logic.
                         </div>
                       </li>
                       <li>
                         <div className="name">
-                          <b>Voice features</b> including recording, playback,
-                          and translation
-                        </div>
-                      </li>
-                      <li>
-                        <div className="name">
-                          <b>Modular architecture</b> using Context API, custom
-                          hooks, and Zod validation
-                        </div>
-                      </li>
-                      <li>
-                        <div className="name">
-                          <b>Enhanced UX</b> with dark mode, responsive layout,
-                          and animated streaming
+                          Used <b>Tailwind CSS</b> and <b>Shadcn/ui</b> to
+                          build consistent, reusable interface patterns while
+                          keeping development speed high.
                         </div>
                       </li>
                     </ul>
                   </div>
                   <div>
-                    Delivered BIWASE's first AI-integrated chat platform,
-                    combining streaming, audio, and multilingual features in a
-                    single, scalable app.
-                  </div>
-                </div>
-              </div>
-
-              <div className="col col-d-12 col-t-12 col-m-12">
-                <div className="resume-item border-line-h active">
-                  <div className="name">
-                    WaterSense – Real-time IoT Monitoring Platform
-                  </div>
-                  <br />
-                  <i style={{ display: "block" }}>
-                    React 18, TypeScript, Redux Toolkit, React Query,
-                    TailwindCSS, ApexCharts, Mapbox GL, Socket.io
-                  </i>
-                  <div className="skills-list list">
-                    <ul>
-                      <li>
-                        <div className="name">
-                          <b>Enterprise IoT monitoring</b> for real-time
-                          tracking and management of smart water devices across
-                          multiple provinces
-                        </div>
-                      </li>
-                      <li>
-                        <div className="name">
-                          <b>Scalable architecture</b> using modular structure,
-                          lazy loading, and TypeScript for type safety
-                        </div>
-                      </li>
-                      <li>
-                        <div className="name">
-                          <b>Hybrid state management</b> combining React Query
-                          for optimal performance
-                        </div>
-                      </li>
-                      <li>
-                        <div className="name">
-                          <b>GIS visualization</b> with Mapbox GL and Turf.js,
-                          custom draw tools, and 3D map views
-                        </div>
-                      </li>
-                      <li>
-                        <div className="name">
-                          <b>Real-time dashboards</b> with Socket.io and
-                          ApexCharts for dynamic sensor data visualization
-                        </div>
-                      </li>
-                      <li>
-                        <div className="name">
-                          <b>Enhanced UX</b> with HeroUI components, dark/light
-                          mode, Framer Motion animations
-                        </div>
-                      </li>
-                      <li>
-                        <div className="name">
-                          <b>Multi-tenant support</b> with role-based routing
-                          and export tools (PDF/XLSX)
-                        </div>
-                      </li>
-                    </ul>
-                  </div>
-                  <br />
-                  <div>
-                    Deployed a robust, real-time water monitoring platform
-                    combining GIS, analytics, and IoT visualization —
-                    establishing the foundation for BIWASE's smart water
-                    management ecosystem.
+                    <b>Impact:</b> Made internal knowledge more accessible
+                    through real-time chat assistance, voice input, and
+                    multilingual support.
                   </div>
                 </div>
               </div>
@@ -161,69 +162,118 @@ const ResumeSection = () => {
               <div className="col col-d-12 col-t-12 col-m-12">
                 <div className="resume-item border-line-h">
                   <div className="name">
-                    <b>CRM Biwase – Customer & Operation Management System</b>
+                    WaterSense – Real-time Water Network Monitoring
                   </div>
+                  <br />
                   <i style={{ display: "block" }}>
-                    React 18, TypeScript, Redux Toolkit, React Query,
-                    TailwindCSS, DaisyUI, Socket.io
+                    WaterSense is a real-time monitoring platform for smart
+                    water networks, providing visibility into sensors, devices,
+                    and network conditions across multiple locations.
                   </i>
                   <div className="skills-list list">
                     <ul>
                       <li>
                         <div className="name">
-                          <b>Comprehensive CRM system</b> for managing
-                          customers, contracts, maintenance, and reporting
-                          across BIWASE's operations
+                          Built interactive GIS monitoring features with{" "}
+                          <b>React</b>, <b>TypeScript</b>, and{" "}
+                          <b>Mapbox GL</b>, enabling users to track smart water
+                          devices and inspect network conditions directly on
+                          the map.
                         </div>
                       </li>
                       <li>
                         <div className="name">
-                          <b>Modular architecture</b> with clear separation of
-                          concerns and full TypeScript type-safety
+                          Integrated <b>Socket.IO</b> for real-time sensor,
+                          device status, and alarm updates, allowing the UI to
+                          reflect operational changes without requiring
+                          full-page or full-dataset refreshes.
                         </div>
                       </li>
                       <li>
                         <div className="name">
-                          <b>Secure authentication</b> using JWT with automatic
-                          refresh and role-based routing
+                          Used <b>React Query</b> to manage server state,
+                          caching, and asynchronous data fetching across
+                          monitoring dashboards and device views.
                         </div>
                       </li>
                       <li>
                         <div className="name">
-                          <b>Reusable UI components</b> with TailwindCSS and
-                          DaisyUI for consistent, responsive UX
-                        </div>
-                      </li>
-                      <li>
-                        <div className="name">
-                          <b>Real-time updates</b> and notifications across
-                          modules using Socket.io
-                        </div>
-                      </li>
-                      <li>
-                        <div className="name">
-                          <b>Data export & visualization</b> using React Table,
-                          ApexCharts, Highcharts, ExcelJS, and
-                          @react-pdf/renderer
-                        </div>
-                      </li>
-                      <li>
-                        <div className="name">
-                          <b>Performance optimization</b> with lazy loading,
-                          Vite code-splitting, and React Query caching
+                          Built real-time dashboards with <b>ApexCharts</b> to
+                          visualize sensor trends and operational metrics for
+                          faster issue detection and monitoring.
                         </div>
                       </li>
                     </ul>
                   </div>
                   <br />
                   <div>
-                    Launched BIWASE's first company-wide CRM
-                    platform—modernizing customer management, improving
-                    operational efficiency, and serving as a scalable foundation
-                    for future systems.
+                    <b>Impact:</b> Centralized real-time device, sensor, and
+                    network monitoring across multiple provinces, improving
+                    issue visibility and operational response.
                   </div>
                 </div>
               </div>
+
+              <div className="col col-d-12 col-t-12 col-m-12">
+                <div className="resume-item border-line-h">
+                  <div className="name">
+                    <b>CRM Biwase Binh Duong and Binh Phuoc</b>
+                  </div>
+                  <i style={{ display: "block" }}>
+                    A customer and operations management platform built for
+                    BIWASE, later expanded from Binh Duong to Binh Phuoc and
+                    used across both regions.
+                  </i>
+                  <div className="skills-list list">
+                    <ul>
+                      <li>
+                        <div className="name">
+                          Built complex CRM workflows with <b>React</b>,{" "}
+                          <b>TypeScript</b> and <b>React Query</b>, supporting
+                          customer, service, and operational processes across
+                          multiple modules.
+                        </div>
+                      </li>
+                      <li>
+                        <div className="name">
+                          Developed reusable form and table patterns for large
+                          business workflows, reducing duplicated UI logic
+                          across customer management, reporting, and
+                          administration screens.
+                        </div>
+                      </li>
+                      <li>
+                        <div className="name">
+                          Integrated <b>Socket.IO</b> for real-time updates and
+                          notifications, improving visibility into changes
+                          without requiring manual page refreshes.
+                        </div>
+                      </li>
+                      <li>
+                        <div className="name">
+                          Built Excel and PDF export features with ExcelJS and
+                          @react-pdf/renderer, allowing users to generate
+                          operational reports directly from the system.
+                        </div>
+                      </li>
+                      <li>
+                        <div className="name">
+                          Integrated external business services including call
+                          center, e-contract, and billing systems, connecting
+                          CRM workflows with existing operational processes.
+                        </div>
+                      </li>
+                    </ul>
+                  </div>
+                  <br />
+                  <div>
+                    <b>Impact:</b> Helped centralize customer and operational
+                    workflows across multiple regions and connected key
+                    business processes within a single platform.
+                  </div>
+                </div>
+              </div>
+
               <div className="col col-d-12 col-t-12 col-m-12">
                 <div className="resume-item border-line-h">
                   <div
@@ -236,102 +286,30 @@ const ResumeSection = () => {
                     <div className="name">ITBee Solutions</div>
                     <div className="date">01/2021 - 05/2023</div>
                   </div>
-
-                  <div className="resume-sub-item">
-                    <div className="name-project">CRM System</div>
-                    <i style={{ display: "block" }}>
-                      ReactJS, TypeScript, Socket, TailwindCSS, MUI
-                    </i>
-                    <div className="skills-list list">
-                      <ul>
-                        <li>
-                          <div className="name">
-                            <b>User management</b> - User, Employee, Customer
-                          </div>
-                        </li>
-                        <li>
-                          <div className="name">
-                            <b>Organization management</b> - Department, Role
-                          </div>
-                        </li>
-                        <li>
-                          <div className="name">
-                            <b>Inventory management</b> - Stock, Import, Export
-                          </div>
-                        </li>
-                        <li>
-                          <div className="name">
-                            <b>Product management</b> - Category, Product, Order
-                          </div>
-                        </li>
-                        <li>
-                          <div className="name">
-                            <b>Communication</b> - Real-time chat system
-                          </div>
-                        </li>
-                      </ul>
-                    </div>
-                  </div>
-
-                  <div className="resume-sub-item">
-                    <div className="name-project">E-commerce Platform</div>
-                    <i style={{ display: "block" }}>
-                      ReactJS, JavaScript, Ant Design
-                    </i>
-                    <div className="skills-list list">
-                      <ul>
-                        <li>
-                          <div className="name">
-                            <b>Product management</b> for affiliate and
-                            e-commerce websites
-                          </div>
-                        </li>
-                        <li>
-                          <div className="name">
-                            <b>Human resource management</b> system
-                          </div>
-                        </li>
-                        <li>
-                          <div className="name">
-                            <b>Ranking system</b> for performance tracking
-                          </div>
-                        </li>
-                        <li>
-                          <div className="name">
-                            <b>Commission management</b> and tracking
-                          </div>
-                        </li>
-                      </ul>
-                    </div>
-                  </div>
-
-                  <div className="resume-sub-item">
-                    <div className="name-project">Real Estate Platform</div>
-                    <i style={{ display: "block" }}>ReactJS, TypeScript, MUI</i>
-                    <div className="skills-list list">
-                      <ul>
-                        <li>
-                          <div className="name">
-                            <b>Marketplace platform</b> for real estate industry
-                          </div>
-                        </li>
-                        <li>
-                          <div className="name">
-                            <b>Real-time messaging</b> system
-                          </div>
-                        </li>
-                        <li>
-                          <div className="name">
-                            <b>Recommendation system</b> for property matching
-                          </div>
-                        </li>
-                        <li>
-                          <div className="name">
-                            <b>Advanced analytics</b> and reporting features
-                          </div>
-                        </li>
-                      </ul>
-                    </div>
+                  <i style={{ marginTop: "8px", display: "block" }}>
+                    Worked on multiple web applications across CRM, e-commerce,
+                    and real estate, focusing on business management workflows
+                    and user-facing features.
+                  </i>
+                  <div className="skills-list list">
+                    <ul>
+                      <li>
+                        <div className="name">
+                          Built business management features with{" "}
+                          <b>React</b> and <b>TypeScript</b>, covering
+                          customer, product, inventory, order, and
+                          role-management workflows.
+                        </div>
+                      </li>
+                      <li>
+                        <div className="name">
+                          Developed reusable UI with <b>Material UI</b>,{" "}
+                          <b>Ant Design</b>, and <b>Tailwind CSS</b>, and
+                          implemented features such as real-time messaging and
+                          affiliate commission management.
+                        </div>
+                      </li>
+                    </ul>
                   </div>
                 </div>
               </div>
